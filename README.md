@@ -53,8 +53,9 @@ Estou aberto a **novos projetos, parcerias e desafios** que exijam soluções be
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats-fg4aiheh7.vercel.app/api?username=DevRogerFer&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-<img height="170em" src="https://github-readme-stats-fg4aiheh7.vercel.app/api/top-langs/?username=DevRogerFer&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats-fg4aiheh7.vercel.app/api?username=DevRogerFer&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<br/>
+<img height="170" src="https://github-readme-stats-fg4aiheh7.vercel.app/api/top-langs/?username=DevRogerFer&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </div>
 
 ---
