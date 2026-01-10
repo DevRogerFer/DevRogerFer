@@ -52,9 +52,9 @@ Estou aberto a **novos projetos, parcerias e desafios** que exijam soluções be
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fg4aiheh7.vercel.app/api?username=DevRogerFer&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-eight-omega-75.vercel.app/api?username=DevRogerFer&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats-fg4aiheh7.vercel.app/api/top-langs/?username=DevRogerFer&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-eight-omega-75.vercel.app/api/top-langs/?username=DevRogerFer&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
